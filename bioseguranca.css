@@ -48,3 +48,38 @@ body{
     background-color: #BFB3A5 ;
     height: 60px;
 }
+.menu{
+    color: black;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-right: 50px;
+}
+.menu-meio{
+    
+    padding-right: 50px;
+    color: black;
+    font-size: 16px;
+    margin-top: 25px;
+}
+.menu-cabecalho{
+    display: flex;
+    text-align: center;
+    justify-content: end;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    margin-right: 80px;
+    color: #848281;
+    margin-top: 64px;
+}
+.subtitulo{
+    font-size: 20px;
+    margin-right: 80px;
+    color: #848281;
+    margin-top: 5px;
+    text-align: center;
+}
+.imagens-bio{
+    margin-top: 76px;
+}
