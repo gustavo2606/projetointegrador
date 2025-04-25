@@ -90,3 +90,17 @@ body{
     color: #848281;
     margin-top: 81px;
 }
+.mapa{
+    border-width: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 81px;
+	
+}
+.rodape-mapa{
+    
+    text-align: center;
+    margin-top: 57px;
+    margin-bottom: 57px;
+}
